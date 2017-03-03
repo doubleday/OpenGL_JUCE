@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+Builds/iOS/DerivedData
+Builds/MacOSX/DerivedData
